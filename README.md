@@ -2,6 +2,8 @@
 
 ## About Me
 
+I’m Ivan Compagnucci, a Ph.D. candidate in Computer Science and Mathematics in the PROcesses & Services lab research group at the University of Camerino. My research focuses on modeling and monitoring business processes integrating features, data and concepts concerning the Internet of Things (IoT) world. 
+
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ivancomp&title=Stars,Followers,Commits,Repositories,Issues,MultipleLang,PullRequest,Experience&theme=onedark" alt="GitHub Trophies" />
