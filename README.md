@@ -6,7 +6,7 @@ I’m Ivan Compagnucci, a Ph.D. candidate in Computer Science and Mathematics in
 
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ivancomp&title=Stars,Followers,Commits,Repositories,Issues,MultipleLang,PullRequest,Experience&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ivancomp&title=Stars,Followers,Commits,Repositories,Issues,MultipleLang,PullRequest,Experience&theme=kimbie_dark" alt="GitHub Trophies" />
   </a>
 </center>
 
