@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m Ivan Compagnucci, a Postdoctoral researcher at Gran Sasso Science Institute. My research focuses on Business Process Management, Internet of Things and Digital Twin.
+I’m Ivan Compagnucci, a Postdoctoral researcher at Gran Sasso Science Institute. My research focuses on AI in SE, Business Process Management, Internet of Things and Digital Twin.
 
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
