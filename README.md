@@ -4,19 +4,6 @@
 
 I’m Ivan Compagnucci, a Postdoctoral researcher at Gran Sasso Science Institute. My research focuses on AI in SE, Business Process Management, Internet of Things and Digital Twin.
 
-<center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ivancomp&title=Stars,Followers,Commits,Repositories,Issues,MultipleLang,PullRequest,Experience&theme=kimbie_dark" alt="GitHub Trophies" />
-  </a>
-</center>
-
-&nbsp;
-
-<p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=ivancomp&show_icons=true&theme=vision-friendly-dark">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancomp&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
 <p align="center">
  <img width="1000" src="asset/github-snake.svg" alt="snake"/>
 </p>
